@@ -1,0 +1,20 @@
+<?php
+$license = 'WHMCS-e0986b506be3bbafa042';
+$db_host = 'localhost';
+$db_port = '';
+$db_username = 'gerritme_whmc652';
+$db_password = 'q.FSp!n462';
+$db_name = 'gerritme_whmc652';
+$db_tls_ca = '';
+$db_tls_ca_path = '';
+$db_tls_cert = '';
+$db_tls_cipher = '';
+$db_tls_key = '';
+$db_tls_verify_cert = '';
+$cc_encryption_hash = 'ihvbohnuqtvacg0wkabz6skzbk0pjaydendkdo8fr5gfa8sdnzquovlqktyntyvk';
+$crons_dir = '/home/gerritme/whmcsdataallone/crons/';
+$templates_compiledir = '/home/gerritme/whmcsdataallone/templates_c/';
+$attachments_dir = "/home/gerritme/whmcsdataallone/attachments/";
+$downloads_dir = "/home/gerritme/whmcsdataallone/downloads/";
+$customadminpath = "administration";
+$mysql_charset = 'utf8';
